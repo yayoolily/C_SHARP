@@ -1,0 +1,10 @@
+C:\C#CODES\firstPractice\firstPractice\bin\Debug\firstPractice.exe.config
+C:\C#CODES\firstPractice\firstPractice\bin\Debug\firstPractice.exe
+C:\C#CODES\firstPractice\firstPractice\bin\Debug\firstPractice.pdb
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.csproj.AssemblyReference.cache
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.Form1.resources
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.Properties.Resources.resources
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.csproj.GenerateResource.cache
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.csproj.CoreCompileInputs.cache
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.exe
+C:\C#CODES\firstPractice\firstPractice\obj\Debug\firstPractice.pdb

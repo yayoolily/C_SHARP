@@ -1,0 +1,11 @@
+C:\C#CODES\prac2\prac2\bin\Debug\prac2.exe.config
+C:\C#CODES\prac2\prac2\bin\Debug\prac2.exe
+C:\C#CODES\prac2\prac2\bin\Debug\prac2.pdb
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.csproj.AssemblyReference.cache
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.Form1.resources
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.Properties.Resources.resources
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.csproj.GenerateResource.cache
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.csproj.CoreCompileInputs.cache
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.exe
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.pdb
+C:\C#CODES\prac2\prac2\obj\Debug\prac2.exe.config
