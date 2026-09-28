@@ -29,6 +29,10 @@ namespace prac2
 
             //to clear label
             ansLabel.Text = "";
+            // or you can use String empty
+            ansLabel.Text = string.Empty;
+
+
         }
     }
 }

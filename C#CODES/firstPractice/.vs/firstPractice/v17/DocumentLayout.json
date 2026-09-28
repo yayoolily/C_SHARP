@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#CODES\\firstPractice\\",
+  "WorkspaceRootPath": "C:\\Users\\HH2\\Documents\\C#CODES\\firstPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|c:\\c#codes\\firstpractice\\firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|solutionrelative:firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|C:\\Users\\HH2\\Documents\\C#CODES\\firstPractice\\firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|solutionrelative:firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|c:\\c#codes\\firstpractice\\firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|solutionrelative:firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|c:\\users\\hh2\\documents\\c#codes\\firstpractice\\firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFE8FCE-C784-4EEF-8BA2-EC75F2E6291E}|firstPractice\\firstPractice.csproj|solutionrelative:firstpractice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\C#CODES\\firstPractice\\firstPractice\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#CODES\\firstPractice\\firstPractice\\Form1.cs",
               "RelativeDocumentMoniker": "firstPractice\\Form1.cs",
-              "ToolTip": "C:\\C#CODES\\firstPractice\\firstPractice\\Form1.cs",
+              "ToolTip": "C:\\Users\\HH2\\Documents\\C#CODES\\firstPractice\\firstPractice\\Form1.cs",
               "RelativeToolTip": "firstPractice\\Form1.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAArwBoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +35,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\C#CODES\\firstPractice\\firstPractice\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#CODES\\firstPractice\\firstPractice\\Form1.cs",
               "RelativeDocumentMoniker": "firstPractice\\Form1.cs",
-              "ToolTip": "C:\\C#CODES\\firstPractice\\firstPractice\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HH2\\Documents\\C#CODES\\firstPractice\\firstPractice\\Form1.cs [Design]",
               "RelativeToolTip": "firstPractice\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T09:33:54.688Z",

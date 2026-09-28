@@ -1,0 +1,11 @@
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\bin\Debug\picbox_prac.exe.config
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\bin\Debug\picbox_prac.exe
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\bin\Debug\picbox_prac.pdb
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.csproj.AssemblyReference.cache
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.Form1.resources
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.Properties.Resources.resources
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.csproj.GenerateResource.cache
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.csproj.CoreCompileInputs.cache
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.exe
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.pdb
+C:\Users\HH2\Documents\C#CODES\picbox_prac\picbox_prac\obj\Debug\picbox_prac.exe.config
