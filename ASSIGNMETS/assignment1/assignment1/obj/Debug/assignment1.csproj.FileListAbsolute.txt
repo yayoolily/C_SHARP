@@ -1,0 +1,11 @@
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.Form1.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\assignment1\assignment1\obj\Debug\assignment1.exe.config

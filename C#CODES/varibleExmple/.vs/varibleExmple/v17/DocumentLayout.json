@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HH2\\Documents\\C#CODES\\varibleExmple\\",
+  "WorkspaceRootPath": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\C#CODES\\varibleExmple\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|c:\\users\\hh2\\documents\\c#codes\\varibleexmple\\varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|solutionrelative:varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\C#CODES\\varibleExmple\\varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|solutionrelative:varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|C:\\Users\\HH2\\Documents\\C#CODES\\varibleExmple\\varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|solutionrelative:varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|c:\\users\\hh2\\documents\\c#practice\\c_sharp\\c#codes\\varibleexmple\\varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE56FA5-5F56-4512-94D0-94AB7C9E13BA}|varibleExmple\\varibleExmple.csproj|solutionrelative:varibleexmple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs",
               "RelativeDocumentMoniker": "varibleExmple\\Form1.cs",
-              "ToolTip": "C:\\Users\\HH2\\Documents\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs",
+              "ToolTip": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs",
               "RelativeToolTip": "varibleExmple\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAASwBkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAhwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T06:59:34.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs",
               "RelativeDocumentMoniker": "varibleExmple\\Form1.cs",
-              "ToolTip": "C:\\Users\\HH2\\Documents\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\C#CODES\\varibleExmple\\varibleExmple\\Form1.cs [Design]",
               "RelativeToolTip": "varibleExmple\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T06:51:17.02Z",

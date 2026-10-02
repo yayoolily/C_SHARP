@@ -70,6 +70,7 @@
             this.label1.Size = new System.Drawing.Size(130, 26);
             this.label1.TabIndex = 2;
             this.label1.Text = "firstName:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // FirstNameTextBox
             // 
@@ -131,6 +132,7 @@
             this.Controls.Add(this.btnshow);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
