@@ -1,0 +1,10 @@
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.csproj.AssemblyReference.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.Form1.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.Properties.Resources.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.csproj.GenerateResource.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\bin\Debug\HotelRoomBookingSystem.exe.config
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\bin\Debug\HotelRoomBookingSystem.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\bin\Debug\HotelRoomBookingSystem.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\HotelRoomBookingSystem\HotelRoomBookingSystem\obj\Debug\HotelRoomBookingSystem.pdb

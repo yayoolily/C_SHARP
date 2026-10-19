@@ -1,0 +1,11 @@
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\bin\Debug\Registration Fee System.exe.config
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\bin\Debug\Registration Fee System.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\bin\Debug\Registration Fee System.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.csproj.AssemblyReference.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration_Fee_System.Form1.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration_Fee_System.Properties.Resources.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.csproj.GenerateResource.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.csproj.CoreCompileInputs.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\Registration Fee System\Registration Fee System\obj\Debug\Registration Fee System.exe.config
