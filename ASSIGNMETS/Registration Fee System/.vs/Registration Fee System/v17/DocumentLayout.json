@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\ASSIGNMETS\\Registration Fee System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|c:\\users\\hh2\\documents\\c#practice\\c_sharp\\assignmets\\registration fee system\\registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|solutionrelative:registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\ASSIGNMETS\\Registration Fee System\\registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|solutionrelative:registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|c:\\users\\hh2\\documents\\c#practice\\c_sharp\\assignmets\\registration fee system\\registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|solutionrelative:registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|c:\\users\\hh2\\documents\\c#practice\\c_sharp\\assignmets\\registration fee system\\registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6471B5EB-2FA6-4D98-B54F-4B0C33E8173A}|Registration Fee System\\Registration Fee System.csproj|solutionrelative:registration fee system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\ASSIGNMETS\\Registration Fee System\\Registration Fee System\\Form1.cs",
               "RelativeDocumentMoniker": "Registration Fee System\\Form1.cs",
               "ToolTip": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\ASSIGNMETS\\Registration Fee System\\Registration Fee System\\Form1.cs",
               "RelativeToolTip": "Registration Fee System\\Form1.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAQwGYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T16:01:07.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HH2\\Documents\\C#practice\\C_SHARP\\ASSIGNMETS\\Registration Fee System\\Registration Fee System\\Form1.cs",
               "RelativeDocumentMoniker": "Registration Fee System\\Form1.cs",

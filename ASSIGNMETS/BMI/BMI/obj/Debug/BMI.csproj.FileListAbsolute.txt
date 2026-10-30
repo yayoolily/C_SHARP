@@ -1,0 +1,11 @@
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\ASSIGNMETS\BMI\BMI\obj\Debug\BMI.exe.config

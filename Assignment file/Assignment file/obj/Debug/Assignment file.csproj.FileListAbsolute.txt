@@ -1,0 +1,11 @@
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\bin\Debug\Assignment file.exe.config
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\bin\Debug\Assignment file.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\bin\Debug\Assignment file.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment file.csproj.AssemblyReference.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment_file.Form1.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment_file.Properties.Resources.resources
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment file.csproj.GenerateResource.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment file.csproj.CoreCompileInputs.cache
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment file.exe
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment file.pdb
+C:\Users\HH2\Documents\C#practice\C_SHARP\Assignment file\Assignment file\obj\Debug\Assignment file.exe.config
